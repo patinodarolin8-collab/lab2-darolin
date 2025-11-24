@@ -1,0 +1,9 @@
+During Lab Assignment 2, you must create a second JavaScript file inside 
+a folder  named /calculations using terminal commands ONLY.
+
+Durante el Laboratorio 2, debes crear un segundo archivo JavaScript 
+dentro de una carpeta  llamada /calculations usando ÚNICAMENTE comandos 
+de terminal.
+
+Do NOT use the GUI or right-click menus.  
+NO uses el menú gráfico ni clic derecho.

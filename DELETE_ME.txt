@@ -1,0 +1,7 @@
+This file must be deleted as part of Lab Assignment 2.  
+Este archivo debe ser eliminado como parte del Laboratorio 2.
+
+If this file is still in your repository when you submit, the assignment 
+is incomplete.  
+Si este archivo sigue en tu repositorio al entregar, la tarea está 
+incompleta.
